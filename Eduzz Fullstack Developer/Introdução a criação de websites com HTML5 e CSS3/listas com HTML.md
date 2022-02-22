@@ -1,0 +1,3 @@
+As listas servem para agrupar coleção de itens, como uma lista de igredientes por exemplo.
+
+Em HTML, para repesentar listas nos temos as tags `<ul>`, para listas onde não há necessidade de ordenação; `<ol>` para listas onde há necessidade de ordenação, portanto os itens dessa lista serão representados com números, letras ou algarismos romanos. E por fim temos `<li>` que é tag utilizada para representar os itens de cada tipo de lista.
